@@ -1,7 +1,7 @@
 Aluno(a): Thamyres Barbosa Torres
 Turma: Modulo IV
 
-#Trabalho Final- Crud_Django 
+Trabalho Final- Crud_Django 
 
 Introdução:
 
